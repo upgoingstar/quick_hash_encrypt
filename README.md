@@ -7,7 +7,6 @@ This comes really hand for pentesters while inspecting strange encrypted / encod
 Example:
 Password reset token, that comes on mail is hashed using some algorithm. To find out which one, this script will help. 
 
-
 Currently script generates simple hashes.
 
 ###RoadMap:
